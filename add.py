@@ -1,6 +1,7 @@
-x=10
-y=90
-z=78
+a=10
+b=90
+c=78
 p=x+y+z
 print(p)
-print("Welcome")
+print("Welcome");
+hi jayendra 
