@@ -1,7 +1,4 @@
-a=10
-b=90
-c=78
-p=x+y+z
-print(p)
-print("Welcome");
-hi jayendra 
+print("welcome")
+hi to pythone devlopera
+ciit institute is hub of dev ops enginner
+best intitute in puneg
